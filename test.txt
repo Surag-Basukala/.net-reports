@@ -1,0 +1,2 @@
+We are currently studying the basics of the Git and GitHub
+This document is sspecially created to check the GUI based merging.
