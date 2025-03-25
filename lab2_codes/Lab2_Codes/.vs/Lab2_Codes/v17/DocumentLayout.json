@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|d:\\8th\\.net\\lab\\lab2_codes\\lab2_codes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|d:\\8th\\.net\\lab\\lab2_codes\\lab2_codes\\primenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|solutionrelative:primenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|d:\\8th\\.net\\lab\\lab2_codes\\lab2_codes\\oddeven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|solutionrelative:oddeven.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|d:\\8th\\.net\\lab\\lab2_codes\\lab2_codes\\sumofnaturalnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|solutionrelative:sumofnaturalnumbers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|d:\\8th\\.net\\lab\\lab2_codes\\lab2_codes\\swapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|solutionrelative:swapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|d:\\8th\\.net\\lab\\lab2_codes\\lab2_codes\\factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|solutionrelative:factorial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|d:\\8th\\.net\\lab\\lab2_codes\\lab2_codes\\sumofarrayelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|solutionrelative:sumofarrayelements.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|d:\\8th\\.net\\lab\\lab2_codes\\lab2_codes\\isleapyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|solutionrelative:isleapyear.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|d:\\8th\\.net\\lab\\lab2_codes\\lab2_codes\\comparision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B27CC1F-AE70-4A64-9F73-EF75547AE778}|Lab2_Codes.csproj|solutionrelative:comparision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SumOfNaturalNumbers.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\SumOfNaturalNumbers.cs",
+              "RelativeDocumentMoniker": "SumOfNaturalNumbers.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\SumOfNaturalNumbers.cs",
+              "RelativeToolTip": "SumOfNaturalNumbers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:11:45.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PrimeNumber.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\PrimeNumber.cs",
+              "RelativeDocumentMoniker": "PrimeNumber.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\PrimeNumber.cs",
+              "RelativeToolTip": "PrimeNumber.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:39:29.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Swapping.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\Swapping.cs",
+              "RelativeDocumentMoniker": "Swapping.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\Swapping.cs",
+              "RelativeToolTip": "Swapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:56:34.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:49:21.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OddEven.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\OddEven.cs",
+              "RelativeDocumentMoniker": "OddEven.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\OddEven.cs",
+              "RelativeToolTip": "OddEven.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:08:48.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Factorial.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\Factorial.cs",
+              "RelativeDocumentMoniker": "Factorial.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\Factorial.cs",
+              "RelativeToolTip": "Factorial.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:33:01.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IsLeapYear.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\IsLeapYear.cs",
+              "RelativeDocumentMoniker": "IsLeapYear.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\IsLeapYear.cs",
+              "RelativeToolTip": "IsLeapYear.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:22:51.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SumofArrayElements.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\SumofArrayElements.cs",
+              "RelativeDocumentMoniker": "SumofArrayElements.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\SumofArrayElements.cs",
+              "RelativeToolTip": "SumofArrayElements.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:25:06.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Comparision.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\Comparision.cs",
+              "RelativeDocumentMoniker": "Comparision.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\lab2_codes\\Lab2_Codes\\Comparision.cs",
+              "RelativeToolTip": "Comparision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:02:48.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
