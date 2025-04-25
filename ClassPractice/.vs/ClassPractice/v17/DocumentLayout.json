@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\8th\\.net\\ClassPractice\\",
+  "WorkspaceRootPath": "D:\\8th\\.net\\Lab\\ClassPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|d:\\8th\\.net\\classpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\8th\\.net\\Lab\\ClassPractice\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|d:\\8th\\.net\\classpractice\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|solutionrelative:mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\8th\\.net\\Lab\\ClassPractice\\MathOperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MathOperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|d:\\8th\\.net\\classpractice\\palindrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|solutionrelative:palindrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\8th\\.net\\Lab\\ClassPractice\\Inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|d:\\8th\\.net\\classpractice\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|solutionrelative:inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\8th\\.net\\Lab\\ClassPractice\\Palindrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Palindrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Palindrom.cs",
-              "DocumentMoniker": "D:\\8th\\.net\\ClassPractice\\Palindrom.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\ClassPractice\\Palindrom.cs",
               "RelativeDocumentMoniker": "Palindrom.cs",
-              "ToolTip": "D:\\8th\\.net\\ClassPractice\\Palindrom.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\ClassPractice\\Palindrom.cs",
               "RelativeToolTip": "Palindrom.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,23 +43,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Inheritance.cs",
-              "DocumentMoniker": "D:\\8th\\.net\\ClassPractice\\Inheritance.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\ClassPractice\\Inheritance.cs",
               "RelativeDocumentMoniker": "Inheritance.cs",
-              "ToolTip": "D:\\8th\\.net\\ClassPractice\\Inheritance.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\ClassPractice\\Inheritance.cs",
               "RelativeToolTip": "Inheritance.cs",
               "ViewState": "AgIAAE0AAAAAAAAAAAAswF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T02:27:26.164Z"
+              "WhenOpened": "2025-04-01T02:27:26.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MathOperations.cs",
-              "DocumentMoniker": "D:\\8th\\.net\\ClassPractice\\MathOperations.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\ClassPractice\\MathOperations.cs",
               "RelativeDocumentMoniker": "MathOperations.cs",
-              "ToolTip": "D:\\8th\\.net\\ClassPractice\\MathOperations.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\ClassPractice\\MathOperations.cs",
               "RelativeToolTip": "MathOperations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,11 +71,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\8th\\.net\\ClassPractice\\Program.cs",
+              "DocumentMoniker": "D:\\8th\\.net\\Lab\\ClassPractice\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\8th\\.net\\ClassPractice\\Program.cs",
+              "ToolTip": "D:\\8th\\.net\\Lab\\ClassPractice\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T01:47:08.583Z",
               "EditorCaption": ""

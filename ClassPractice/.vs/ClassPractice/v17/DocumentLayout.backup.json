@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|d:\\8th\\.net\\classpractice\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|solutionrelative:mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|d:\\8th\\.net\\classpractice\\palindrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|solutionrelative:palindrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|d:\\8th\\.net\\classpractice\\inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|solutionrelative:inheritance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|d:\\8th\\.net\\classpractice\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F3EAF45-D76F-4B08-8E04-CBD7E50ABAD4}|ClassPractice.csproj|solutionrelative:mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Palindrom.cs",
               "DocumentMoniker": "D:\\8th\\.net\\ClassPractice\\Palindrom.cs",
               "RelativeDocumentMoniker": "Palindrom.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Inheritance.cs",
               "DocumentMoniker": "D:\\8th\\.net\\ClassPractice\\Inheritance.cs",
               "RelativeDocumentMoniker": "Inheritance.cs",
@@ -55,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "MathOperations.cs",
               "DocumentMoniker": "D:\\8th\\.net\\ClassPractice\\MathOperations.cs",
               "RelativeDocumentMoniker": "MathOperations.cs",
@@ -63,7 +63,8 @@
               "RelativeToolTip": "MathOperations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T02:06:27.298Z"
+              "WhenOpened": "2025-04-01T02:06:27.298Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -71,9 +72,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\8th\\.net\\ClassPractice\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\8th\\.net\\ClassPractice\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAwwBwAAAAtAAAAAAAAAA==",
+              "ToolTip": "D:\\8th\\.net\\ClassPractice\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-01T01:47:08.583Z",
               "EditorCaption": ""
