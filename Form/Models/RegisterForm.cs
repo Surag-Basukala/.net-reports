@@ -14,7 +14,7 @@ namespace Winforms.Models
         public string? Province { get; set; }
         public string? Gender { get; set; }
         public string? District { get; set; }
-        //public string? Skill { get; set; }
+        public string? Skill { get; set; }
 
 
     }

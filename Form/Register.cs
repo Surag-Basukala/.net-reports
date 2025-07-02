@@ -70,8 +70,20 @@ namespace Winforms
             string province = comboBox1.SelectedItem.ToString();
             string district = comboBox2.SelectedItem.ToString();
             string gender = comboBox3.SelectedItem.ToString();
+            int count = checkedListBox1.CheckedItems.Count;
+            StringBuilder skills = new StringBuilder();
+            //while (count > 0) {
+            // skills.Append(checkedListBox1.SelectedIndices)
+            //}
+            //.ToString();
+            for (int i = 0; i < count; i++)
+            {
+                skills.Append(checkedListBox1.CheckedItems[i].ToString());
+                if (i < count - 1)
+                    skills.Append(", ");
+            }
 
-
+            MessageBox.Show($"Skills: {skills.ToString()}");
             //MessageBox.Show($"Name: {name}\nAge: {age}\nProvince: {province}\nDistrict: {district}");
             RegisterForm register = new RegisterForm()
             {
@@ -79,7 +91,8 @@ namespace Winforms
                 Age = age,
                 Gender = gender,
                 District = district,
-                Province = province
+                Province = province,
+                Skill = skills.ToString()
             };
             DatabaseService databaseService = new DatabaseService();
             string message = databaseService.load_register(register);
